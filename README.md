@@ -20,7 +20,7 @@
 ## Hướng dẫn cài đặt
 1. **Clone dự án về máy:**
    ```bash
-   git clone <link-repo-cua-ban>
+   git clone <https://github.com/boyisvan/Gold-Price-Prediction>
    cd giavang
    ```
 2. **Cài đặt các thư viện cần thiết:**
