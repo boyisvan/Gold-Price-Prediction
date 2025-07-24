@@ -1,0 +1,4 @@
+pip install streamlit
+
+
+run app: streamlit run app.py
