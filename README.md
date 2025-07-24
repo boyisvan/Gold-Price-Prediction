@@ -44,6 +44,11 @@
 - Ứng dụng chỉ thu thập dữ liệu giá vàng SJC.
 - Nếu không có dữ liệu cho ngày chọn, kiểm tra lại kết nối mạng hoặc thử lại sau.
 - Dữ liệu được lưu tạm thời và có thể tải về dưới dạng CSV.
+## Demo sản phẩm
+<div style="display:flex; justify-content:center;">
+  <img width="407" height="824" alt="image" src="https://github.com/user-attachments/assets/43d7107f-db0f-4bf8-b3b2-8201500c42f4" />
+</div>
+<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/80d5692e-b995-4eda-bf1e-014cf1fed221" />
 
 ## Liên hệ
 - boyisvan (Ducvancoder-0587282880)
